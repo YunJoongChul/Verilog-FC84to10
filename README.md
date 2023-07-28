@@ -10,4 +10,4 @@
 6. 지금 reg더하는거 조건 개같이 걸어놓음
 7. 내일하자.................근데 잘 나온거 같기도..?
 8. bias 더하는거 추가해야됨
-![image](https://github.com/YunJoongChul/Verilog-FC84to10/assets/86291432/1aca75b1-d30f-4d2b-a199-bff92e05f7b9)
+[image](https://github.com/YunJoongChul/Verilog-FC84to10/assets/86291432/1aca75b1-d30f-4d2b-a199-bff92e05f7b9)
